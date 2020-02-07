@@ -1,1 +1,1 @@
-# This is the PDF direct download to my resume.
+# This is my repository for my portfolio website.
