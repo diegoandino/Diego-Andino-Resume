@@ -2636,6 +2636,11 @@ input, select, textarea {
 			display: block;
 			margin: 4rem 0;
 			width: 100%;
+			overflow: scroll;
+		}
+
+		.iframe {
+			overflow: scroll;
 		}
 
 			.image.main:first-child {
